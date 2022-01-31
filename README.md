@@ -13,7 +13,7 @@ Et un travail est en cours pour l'application complète.
 
 De plus, nous avons aussi commis une série de vidéos Youtube où tout est expliqué. Vous pouvez y jeter un coup d'oeil en cliquant sur l'image...
 
-[![Youtube PetgaHouse](/images/petgahouse)](https://youtu.be/bvrfnGtff28)
+[![Youtube PetgaHouse](/images/petgahouse.png)](https://youtu.be/bvrfnGtff28)
 
 ## Technologies Utilisées & Architecture
 
@@ -26,9 +26,8 @@ Pour ce POC, nous avons utilisé les technologies suivantes :
 - **MongoDB Atlas** pour notre base de données
 
 L'architecture de cette démonstration de faisabilité se présente ainsi :
-![architecture petgahouse](/images/architecture.png)
 
-In the project directory, you can run:
+![architecture petgahouse](/images/architecture.png)
 
 ## Lancer l'application
 
@@ -48,7 +47,7 @@ npm start
 
 Ouvrir [http://localhost:3000](http://localhost:3000) pour afficher l'application dans votre navigateur.
 
-Il faut noter que vous aurez besoin de lancer aussi le back-end simultanément. Pour savoir comment lancer le serveur, cliquer ici [petgahouse-server](https://github.com/epegase/petgahouse-server)
+**Il faut noter que vous aurez besoin de lancer aussi le back-end simultanément. Pour savoir comment lancer le serveur, cliquer ici [petgahouse-server](https://github.com/epegase/petgahouse-server)**
 
 ## Penser en React
 
@@ -64,4 +63,5 @@ Vous pouvez visionner le développement du front-end à partir de la [vidéo 26]
 ## La suite ?
 
 Ce tutoriel simple avait pour objectif de présenter rapidement l'architecture d'une application front-end et back-end, comment toutes les parties se tiennent pour former un ensemble.
+
 Le prochain challenge est de concevoir l'application complète sensable au cours dont il s'inspire. Vous pouvez jeter un coup d'oeil et même tester cette application complète à cliquant ici : [Tinyhouse.app](https://www.tinyhouse.app/)
