@@ -1,8 +1,26 @@
-# Getting Started with Create React App
+# Projet pédagogique Fullstack "PetgaHouse"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet, **PetgaHouse**, a été développé pour aider les développeurs auto-apprenants comme moi à comprendre l'architecture complète d'une application web.
 
-## Available Scripts
+Il s'inspire entièrement du cours "[TinyHouse, A Fullstack React Masterclass](https://www.newline.co/tinyhouse)" de [Newline.co](https://www.newline.co/)
+
+Ce repertoire porte la première partie qui visait à développer rapidement un POC(_proof of concept_), une démonstration de faisabilité. Et un travail est en cours pour l'application complète.
+
+De plus, nous avons aussi commis une série de vidéos Youtube où tout est expliqué. Vous pouvez y jeter un coup d'oeil en cliquant sur l'image...
+[![PetgaHouse : Clone de Airbnb avec React & Apollo](/images/petgahouse)](https://youtu.be/bvrfnGtff28)
+
+## Technologies Utilisées & Architecture
+
+Pour ce POC, nous avons utilisé les technologies suivantes :
+
+- **React** pour le front-end,
+- **Ant Design** pour les composants React prêts à l'emploi,
+- **TypeScript** pour sécuriser notre code,
+- **Apollo GraphQL** pour notre API GraphQL,
+- **MongoDB Atlas** pour notre base de données
+
+L'architecture de cette démonstration de faisabilité se présente ainsi :
+![alt text](/images/architecture.png)
 
 In the project directory, you can run:
 
