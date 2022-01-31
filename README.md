@@ -7,6 +7,7 @@ Il s'inspire entièrement du cours "[TinyHouse, A Fullstack React Masterclass](h
 Ce repertoire porte la première partie qui visait à développer rapidement un POC(_proof of concept_), une démonstration de faisabilité.
 
 Ce POC(_proof of concept_) se présente visuellement ainsi :
+
 ![annonces petgahouse](/images/petgahouse_poc.png)
 
 Et un travail est en cours pour l'application complète.
